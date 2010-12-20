@@ -1,6 +1,6 @@
 #hello-ncurses
 
-I'm working my way through [Pradeep Padala's[(http://twitter.com/ppadala) ncurses intro at:
+I'm working my way through [Pradeep Padala's](http://twitter.com/ppadala) ncurses intro at:
 http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
 
 Install for recent debian'ish distros:
