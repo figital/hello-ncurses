@@ -2,6 +2,7 @@
 #include <string.h>
 
 /*
+
     See http://github.com/figital/hello-ncurses for more info   
 */
 
