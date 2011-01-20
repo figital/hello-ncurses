@@ -22,3 +22,5 @@ You should now be able to run something like ...
 ... which will give you an executable to run from the command line.
 
 :)
+
+Hello Pete from CV.
